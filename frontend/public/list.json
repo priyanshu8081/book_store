@@ -11,7 +11,7 @@
         {
         "id":2,
         "name":"story book",
-        "title":"Code from Zero to Hero",
+        "title":"Code from ",
         "price":0,
         "category":"free",
         "image":"book1.png",
@@ -29,7 +29,7 @@
         {
         "id":4,
         "name":"story book",
-        "title":"Programming Made Simple",
+        "title":"Program and algo",
         "price":0,
         "category":"free",
         "image":"book1.png",

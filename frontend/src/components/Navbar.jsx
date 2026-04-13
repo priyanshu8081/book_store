@@ -26,7 +26,7 @@ const Navbar = () => {
                                 {navItems}
                             </ul>
                         </div>
-                        <a className="text-2xl font-bold cursor-pointer">Bookstore</a>
+                        <a className="text-2xl font-bold cursor-pointer">Book<span className='text-[#00A385]'>store</span></a>
                     </div>
                     <div className="navbar-end space-x-2">
                         <div className="navbar-center hidden lg:flex">
