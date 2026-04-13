@@ -1,0 +1,64 @@
+[
+    {
+        "id":1,
+        "name":"story book",
+        "title":"Beyond the Code",
+        "price":0,
+        "category":"free",
+        "image":"book1.png",
+        "desc":"Think like an architect, not just a programmer"
+    },
+        {
+        "id":2,
+        "name":"story book",
+        "title":"Code from Zero to Hero",
+        "price":0,
+        "category":"free",
+        "image":"book1.png",
+        "desc":"TWork with core concepts like variables, loops, functions, and data structures"
+    },
+        {
+        "id":3,
+        "name":"story book",
+        "title":"The Friendly Guide to Coding",
+        "price":0,
+        "category":"free",
+        "image":"book1.png",
+        "desc":"Write clean and readable code with confidence"
+    },
+        {
+        "id":4,
+        "name":"story book",
+        "title":"Programming Made Simple",
+        "price":0,
+        "category":"free",
+        "image":"book1.png",
+        "desc":"Develop problem-solving skills used by real developers"
+    },
+        {
+        "id":5,
+        "name":"story book",
+        "title":"Start Coding Today",
+        "price":0,
+        "category":"free",
+        "image":"book1.png",
+        "desc":"Write your first real programs with confidence"
+    },
+        {
+        "id":6,
+        "name":"story book",
+        "title":"The First Line of Code",
+        "price":0,
+        "category":"free",
+        "image":"book1.png",
+        "desc":"Think like an architect, not just a programmer"
+    },    {
+        "id":7,
+        "name":"story book",
+        "title":"Thinking in Code",
+        "price":0,
+        "category":"free",
+        "image":"book1.png",
+        "desc":"Think like an coder, not just a normal people"
+    }
+]
